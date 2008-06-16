@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Interfejs do szachownicy dla KDE
 Name:		slibo
 Version:	0.4.4
 Release:	0.1
-License:	GPL v2
+License:	GPL v2+
 Group:		X11/Applications/Games
 Source0:	http://dl.sourceforge.net/slibo/%{name}-%{version}.tar.bz2
 # Source0-md5:	145a2bcf3d1e9769ccd30b8f1d1ee8ea
